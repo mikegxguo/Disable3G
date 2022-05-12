@@ -1,0 +1,4 @@
+../../../out/host/linux-x86/bin/aapt a ../../../out/target/product/gemini/system/priv-app/Disable3G/Disable3G.apk lib/arm64-v8a/libqlmodem.so
+#../../../out/host/linux-x86/bin/aapt a ../../../out/target/product/gemini/system/priv-app/Disable3G/Disable3G.apk lib/arm64-v8a/libnative-lib.so
+cp ../../../out/target/product/gemini/system/priv-app/Disable3G/Disable3G.apk ~/mike/share/
+cd ../../../
